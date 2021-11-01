@@ -1,0 +1,10 @@
+D:\Giriş\Dosyalar\Ahmet Yunus BAYRAM\Bilgi Giriş\Bilgi Giriş\bin\Debug\Bilgi Giriş.exe.config
+D:\Giriş\Dosyalar\Ahmet Yunus BAYRAM\Bilgi Giriş\Bilgi Giriş\bin\Debug\Bilgi Giriş.exe
+D:\Giriş\Dosyalar\Ahmet Yunus BAYRAM\Bilgi Giriş\Bilgi Giriş\bin\Debug\Bilgi Giriş.pdb
+D:\Giriş\Dosyalar\Ahmet Yunus BAYRAM\Bilgi Giriş\Bilgi Giriş\obj\Debug\Bilgi Giriş.csprojAssemblyReference.cache
+D:\Giriş\Dosyalar\Ahmet Yunus BAYRAM\Bilgi Giriş\Bilgi Giriş\obj\Debug\Bilgi_Giriş.Form1.resources
+D:\Giriş\Dosyalar\Ahmet Yunus BAYRAM\Bilgi Giriş\Bilgi Giriş\obj\Debug\Bilgi_Giriş.Properties.Resources.resources
+D:\Giriş\Dosyalar\Ahmet Yunus BAYRAM\Bilgi Giriş\Bilgi Giriş\obj\Debug\Bilgi Giriş.csproj.GenerateResource.cache
+D:\Giriş\Dosyalar\Ahmet Yunus BAYRAM\Bilgi Giriş\Bilgi Giriş\obj\Debug\Bilgi Giriş.csproj.CoreCompileInputs.cache
+D:\Giriş\Dosyalar\Ahmet Yunus BAYRAM\Bilgi Giriş\Bilgi Giriş\obj\Debug\Bilgi Giriş.exe
+D:\Giriş\Dosyalar\Ahmet Yunus BAYRAM\Bilgi Giriş\Bilgi Giriş\obj\Debug\Bilgi Giriş.pdb
